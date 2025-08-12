@@ -11,4 +11,4 @@ Buy me hamburger is a software tool, integration act as pig mail box, this tool 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Buy-me-hamburger-1bb5e832d6ee805d9f85fa736509d45f
+https://phantrungviet.notion.site/buy-me-hamburger-1bb5e832d6ee805d9f85fa736509d45f
