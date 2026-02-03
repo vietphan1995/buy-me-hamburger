@@ -6,7 +6,11 @@
 
 [https://github.com/vietphan1995/buy-me-hamburger.git](https://github.com/vietphan1995/buy-me-hamburger.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:buy-me-hamburger_project&body=left_your_idea)
+
 Buy me hamburger is a software tool, integration act as pig mail box, this tool helps people sending & receiving mail messages, request tickets with an amount. This amount supported in many assets like money, crypto, voucher, credit code, …
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
